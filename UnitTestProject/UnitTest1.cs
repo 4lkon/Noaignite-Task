@@ -10,6 +10,7 @@ namespace UnitTestProject
         public void TestMethod1()
         {
             // unit tests
+
         }
     }
 }
